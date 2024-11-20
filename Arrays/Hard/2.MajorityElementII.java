@@ -15,7 +15,6 @@
     We first find two candidates.
     Then we check if any of these two candidates is actually a majority.
 */
-import java.util.*;
 
 class Solution {
     public List<Integer> findMajority(int[] nums) {
