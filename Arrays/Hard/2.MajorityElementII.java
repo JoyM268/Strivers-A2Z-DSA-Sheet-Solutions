@@ -64,7 +64,7 @@ class Solution {
 }
 
 /*
-    Alternative Approach:
+    Alternative Approach(Using Hashing):
     Time Complexity: O(n)
     Space Complexity: O(n)
 
