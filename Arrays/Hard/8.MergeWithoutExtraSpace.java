@@ -10,6 +10,11 @@
     Auxiliary Space: O(1)
 */
 
+/*
+    Hint: This approach swaps elements between the two arrays until all elements in the first array are smaller than those in the second. 
+    Then, both arrays are sorted individually to merge them in sorted order.
+*/
+
 class Solution {
     public void swap(int[] a, int[] b, int i, int j){
         int temp = a[i];
